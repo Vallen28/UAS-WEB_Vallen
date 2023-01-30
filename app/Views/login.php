@@ -132,11 +132,11 @@
                       </g>
                     </svg>
                   </span>
-                  <span class="app-brand-text demo text-body fw-bolder">Masjid KU</span>
+                  <span class="app-brand-text demo text-body fw-bolder">Masjid Kita</span>
                 </a>
               </div>
               <!-- /Logo -->
-              <h4 class="mb-2">Welcome to MASJID KU 👋</h4>
+              <h4 class="mb-2">Welcome to Si Masjid</h4>
 
               <form class="row g-3 needs-validation" method="POST" 
                   action="<?php echo base_url('home/login');?>">

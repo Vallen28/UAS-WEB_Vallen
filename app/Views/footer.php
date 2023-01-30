@@ -8,8 +8,8 @@
                   <script>
                     document.write(new Date().getFullYear());
                   </script>
-                  , made with ❤️ by
-                  <a href="https://www.instagram.com/fhrr.oji/" target="_blank" class="footer-link fw-bolder">Fachrur Rozi</a>
+                  , made by
+                  <a href="https://instagram.com/bayu.ac512?igshid=ZDdkNTZiNTM=" target="_blank" class="footer-link fw-bolder">Bayu Adi Cahyono</a>
                 </div>
               </div>
             </footer>
