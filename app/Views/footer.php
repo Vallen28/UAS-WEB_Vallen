@@ -9,7 +9,7 @@
                     document.write(new Date().getFullYear());
                   </script>
                   , made by
-                  <a href="https://instagram.com/bayu.ac512?igshid=ZDdkNTZiNTM=" target="_blank" class="footer-link fw-bolder">Bayu Adi Cahyono</a>
+                  <a href="https://instagram.com/bayu.ac512?igshid=ZDdkNTZiNTM=" target="_blank" class="footer-link fw-bolder">Vallen Ezra</a>
                 </div>
               </div>
             </footer>

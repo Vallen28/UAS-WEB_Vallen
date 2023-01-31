@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/bayuadiuas';
+    public $baseURL = 'http://localhost/uas_vallen_ezra';
 
     /**
      * --------------------------------------------------------------------------
