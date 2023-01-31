@@ -94,7 +94,7 @@
                 <button type="button" class="btn btn-danger btn-rounded pull-right" onClick="javascript:history.go(-1)">
                   <i class="far fa-times-circle fa-lg"></i><b> Back</b>
                 </button>
-                <button type="submit" class="btn btn-warning btn-rounded pull-right">
+                <button type="submit" class="btn btn-primary btn-rounded pull-right">
                   <i class="far far fa-paper-plane fa-lg"></i><b> Submit</b>
                 </button>
               </div>
